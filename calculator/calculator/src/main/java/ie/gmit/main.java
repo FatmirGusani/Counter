@@ -1,5 +1,7 @@
 package ie.gmit;
 
+//This is method will add two number//
+
 public class main {
     public static void main(String[] args) {
 
